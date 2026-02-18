@@ -8,8 +8,9 @@ Previously led frontend teams at [Comet](https://www.comet.com), where I grew th
 
 I'm interested in developer tools, data-heavy UIs, and the space where frontend meets AI infrastructure.
 
-## What I build with
+## Projects
 
-TypeScript, React, Next.js, TanStack (Start, Router, Query), Tailwind CSS, shadcn/ui, tRPC, Drizzle ORM, PostgreSQL, Phaser 3, Vite, pnpm, Claude Code.
+- **[fcarril.com](https://fcarril.com)** — Personal blog built with TanStack Start, Tailwind CSS and content-collections.
+- **[Cascade Puzzle](https://cascadepuzzle.com)** — A Panel de Pon / Tetris Attack style puzzle game built with Phaser 3, React, tRPC, Drizzle ORM and PostgreSQL.
 
 [Blog](https://fcarril.com) · [LinkedIn](https://www.linkedin.com/in/fcarril/) · [X](https://x.com/fercarril)
