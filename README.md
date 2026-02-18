@@ -12,6 +12,6 @@ I'm interested in developer tools, data-heavy UIs, and the space where frontend 
 
 TypeScript, React, Next.js, TanStack (Start, Router, Query), Tailwind CSS, shadcn/ui, tRPC, Drizzle ORM, PostgreSQL, Phaser 3, Vite, pnpm, Claude Code.
 
-- 🌐 [fcarril.com](https://fcarril.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/fcarril/)
-- 𝕏 [X](https://x.com/fercarril)
+[![Blog](https://img.shields.io/badge/fcarril.com-000?style=flat&logo=safari&logoColor=white)](https://fcarril.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcarril/)
+[![X](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/fercarril)
