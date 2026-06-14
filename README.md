@@ -10,6 +10,7 @@ I'm interested in developer tools, data-heavy UIs, and the space where frontend 
 
 ## Projects
 
+- **[Piso Propio](https://pisopropio.es)** — A platform for Spain's protected-housing (HPO/VPO) market: it tells you which offers you qualify for, what they cost, their deadlines, and your realistic odds. Combines an eligibility engine built on the official rules, an offers feed that gathers scattered public sources, and up-to-date official prices. Built with TanStack Start, tRPC, Drizzle ORM, PostgreSQL, and AI-assisted extraction.
 - **[typegrade](https://github.com/ferc/typegrade)** ([npm](https://www.npmjs.com/package/typegrade)) — A TypeScript type-precision analyzer for the AI agent era. Scores codebases and npm packages across 12 dimensions to measure how well types guide humans and AI agents toward correct code. Built with ts-morph and TypeScript 5.9+.
 - **[PromptPal](https://prompt.fcarril.com)** — A mobile-first PWA that helps non-technical users build AI prompts through tap-based category selection — zero typing required. 1,000+ building blocks, bilingual (EN/ES), direct links to ChatGPT, Claude, and more. Built with TanStack Start, Drizzle ORM, and PostgreSQL.
 - **[Cascade Puzzle](https://cascadepuzzle.com)** — A Panel de Pon / Tetris Attack style puzzle game built with Phaser 3, React, tRPC, Drizzle ORM and PostgreSQL.
